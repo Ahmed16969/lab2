@@ -1,4 +1,4 @@
-<!doctype html>
+ <!doctype html>
 <!-- URL: https://example.com/Spring24/CSCI200/labs/Lab2.html -->
 <!-- Author: Karan Kumar -->
 <!-- Date of Last Edit: February 14, 2024 -->
@@ -98,11 +98,12 @@
 
     <!-- Task 9 - Images -->
     <h2>Public-Domain Image</h2>
-    <img src="https://www.loc.gov/static/images/" alt="Library of Congress Image">
+    <img src=https://tile.loc.gov/storage-services/service/pnp/ppmsca/57100/57163_150px.jpg>
 
     <!-- Task 10 - Image links -->
-    <a href="https://www.example.com"><img src="https://www.example.com/image.jpg" alt="Linked Image"></a>
+    <a href=https://www.loc.gov/static/portals/free-to-use/public-domain/hispanic-heritage-month/HHM-1.jpeg><img src=https://www.loc.gov/static/portals/free-to-use/public-domain/hispanic-heritage-month/HHM-1.jpeg alt="Linked Image"></a>
 
 </body>
 
 </html>
+ 
